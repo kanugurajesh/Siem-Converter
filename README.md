@@ -1,5 +1,3 @@
-convert ruleset to SIEM query
-
 ## Prequisites
 
 ### Local Setup
