@@ -1,3 +1,7 @@
+<div>
+    <img src="https://github.com/kanugurajesh/Siem-Converter/assets/120458029/1f90c572-7e01-4ee1-8989-ff22288da432" alt="" width=150 height=150>
+</div>
+
 # SigTrans
 
 A reactJS web app that can take a ruleset and translate it into any SIEM search query, using Sigma
