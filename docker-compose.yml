@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+
+  web:
+    build: cd frontend && docker build -t frontend .
+    image: frontend
+    ports:
+      - "5173:5173"
+    
+  api:
+    build: cd backend && docker build -t backend .
+    image: backend
+    ports:
+      - "8000:8000"

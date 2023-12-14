@@ -1,0 +1,11 @@
+.mw {
+    flex-direction: row;
+}
+
+@media (max-width:420px) {
+    .mw {
+        flex-direction: column;
+        text-align: center;
+        gap: 25px;
+    }
+}

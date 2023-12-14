@@ -1,0 +1,25 @@
+.mw {
+    flex-direction: row;
+}
+
+.flexdata {
+    flex-direction: row;
+}
+
+@media (max-width: 768px) {
+    .mw {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 1300px) {
+    .flexdata {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 769px) {
+    .flexdata {
+        padding: 20px;
+    }
+}
