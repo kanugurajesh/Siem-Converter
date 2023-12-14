@@ -1,6 +1,6 @@
 # SigTrans
 
-convert ruleset to SIEM query
+A reactJS web app that can take a ruleset and translate it into any SIEM search query, using Sigma
 
 ## Prequisites
 
