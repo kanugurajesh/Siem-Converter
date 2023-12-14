@@ -1,5 +1,3 @@
-# SigTrans
-
 convert ruleset to SIEM query
 
 ## Prequisites
@@ -244,6 +242,8 @@ Build a reactJS web app that can take a ruleset and translate it into any SIEM s
 
 - Sigma - https://github.com/SigmaHQ/sigma
 - Uncoder - https://uncoder.io
-#   S i e m - C o n v e r t e r  
- #   S i e m - C o n v e r t e r  
+#   S i e m - C o n v e r t e r 
+ 
+ #   S i e m - C o n v e r t e r 
+ 
  
