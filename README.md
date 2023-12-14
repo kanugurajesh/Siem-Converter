@@ -83,8 +83,6 @@ A reactJS web app that can take a ruleset and translate it into any SIEM search 
 
 [![Watch the video](https://ik.imagekit.io/hbzknb1hm/Screenshot%202023-11-20%20121156.png?updatedAt=1700462537547)](https://youtu.be/H2q_HDg6r5Q?feature=shared)
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/wuVsDoSU)
-
 ## Sample Input
 
 I have provided a sample rule.yml file in the root directory of the project. You can use that to test the application. or you can use the following ruleset.
